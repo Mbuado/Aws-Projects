@@ -30,11 +30,9 @@ This project was inspired and guided by the YouTube tutorial from [DevOpsJourney
 
 ## Architecture Diagram  
 
-![AWS Terraform GitLab Architecture](architecture.png)  
+![AWS Terraform GitLab Architecture](Project_image.png)  
 
-> *(Upload your architecture image as architecture.png or generate one using tools like LucidChart, Draw.io, or Excalidraw.)*
 
----
 
 ## Pipeline Workflow  
 
